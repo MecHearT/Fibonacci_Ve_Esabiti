@@ -1,0 +1,25 @@
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\bin\Debug\Matematiksel.exe.config
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\bin\Debug\Matematiksel.exe
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\bin\Debug\Matematiksel.pdb
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\obj\Debug\Matematiksel.csprojAssemblyReference.cache
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\obj\Debug\Matematiksel.Form1.resources
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\obj\Debug\Matematiksel.Properties.Resources.resources
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\obj\Debug\Matematiksel.csproj.GenerateResource.cache
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\obj\Debug\Matematiksel.csproj.CoreCompileInputs.cache
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\obj\Debug\Matematiksel.exe
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\obj\Debug\Matematiksel.pdb
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\obj\Debug\Matematiksel.Fibonacci.resources
+C:\Users\Etem\source\repos\Matematiksel\Matematiksel\obj\Debug\Matematiksel.esabiti.resources
+E:\Yeni klasör (5)\E sabiti\Matematiksel\bin\Debug\Matematiksel.exe.config
+E:\Yeni klasör (5)\E sabiti\Matematiksel\bin\Debug\Matematiksel.exe
+E:\Yeni klasör (5)\E sabiti\Matematiksel\bin\Debug\Matematiksel.pdb
+E:\Yeni klasör (5)\E sabiti\Matematiksel\obj\Debug\Matematiksel.csproj.AssemblyReference.cache
+E:\Yeni klasör (5)\E sabiti\Matematiksel\obj\Debug\Matematiksel.csproj.SuggestedBindingRedirects.cache
+E:\Yeni klasör (5)\E sabiti\Matematiksel\obj\Debug\Matematiksel.esabiti.resources
+E:\Yeni klasör (5)\E sabiti\Matematiksel\obj\Debug\Matematiksel.Fibonacci.resources
+E:\Yeni klasör (5)\E sabiti\Matematiksel\obj\Debug\Matematiksel.Form1.resources
+E:\Yeni klasör (5)\E sabiti\Matematiksel\obj\Debug\Matematiksel.Properties.Resources.resources
+E:\Yeni klasör (5)\E sabiti\Matematiksel\obj\Debug\Matematiksel.csproj.GenerateResource.cache
+E:\Yeni klasör (5)\E sabiti\Matematiksel\obj\Debug\Matematiksel.csproj.CoreCompileInputs.cache
+E:\Yeni klasör (5)\E sabiti\Matematiksel\obj\Debug\Matematiksel.exe
+E:\Yeni klasör (5)\E sabiti\Matematiksel\obj\Debug\Matematiksel.pdb
